@@ -1,11 +1,11 @@
-# reden27gabrinez.github.io
+# https://rrenz.github.io/portfolio/index.html
 
-#PORTFOLIO | https://reden27gabrinez.github.io/portfolio/
+#PORTFOLIO | https://rrenz.github.io/portfolio/index.html
 
-#Social Media Accounts
+@LinkedIn: https://www.linkedin.com/in/reynaldo-aquit-70b715257/
 
-#facebook.com/reden.gabrinez
+#DONATE 
 
-#Buy me a Coffee: GCASH : 09632357966 | REDEN GABRINEZ
+#GCASH : 09062905452 | REYNALDO AQUIT
 
-#Buy me a Coffee: PAYPALL: https://www.paypal.me/RedenGabrinez
+#METROBANK: 450-3-450-19509-0 | REYNALDO AQUIT

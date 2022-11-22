@@ -1,1 +1,1 @@
-# reden27gabrinez.github.io
+https://rrenz.github.io/portfolio/index.html
