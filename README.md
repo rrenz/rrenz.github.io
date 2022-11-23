@@ -2,9 +2,9 @@
 
 # PORTFOLIO | https://rrenz.github.io/portfolio/index.html
 
-@LinkedIn: https://www.linkedin.com/in/reynaldo-aquit-70b715257/
+# LinkedIn: https://www.linkedin.com/in/reynaldo-aquit-70b715257/
 
-# DONATE 
+# FOR DONATATIONS ::
 
 # GCASH : 09062905452 | REYNALDO AQUIT
 
