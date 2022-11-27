@@ -1,4 +1,4 @@
-# https://rrenz.github.io/portfolio/index.html
+# https://rrenz.github.io
 
 # PORTFOLIO | https://rrenz.github.io/portfolio/index.html
 
